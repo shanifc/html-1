@@ -1,0 +1,37 @@
+.row{
+    height: 200px;
+    width: 300px;
+    border: 2px black solid;
+    margin: auto;
+    position: relative;
+}
+.c{
+    height: 30px;
+    width: 30px;
+    border: 2px white solid;
+}
+.c1{
+    background-color: aqua;
+        /* position: static;
+    left: 50px;
+    top: 50px; */
+
+    /* position: relative;
+    left: 50px;
+    right: 50px; */
+
+    position: absolute;
+    left: 50px;
+    top: 50px;
+
+
+}
+.c2{
+    background-color: blue;
+}
+.c3{
+    background-color: blueviolet;
+}
+.c4{
+    background-color: yellow;
+}

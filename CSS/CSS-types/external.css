@@ -1,0 +1,18 @@
+h1{
+    color: rgb(29, 155, 155);   
+}
+h2{
+    background-color: aqua;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    background-color: lawngreen;
+}
+a{
+    color: red;
+}
+h3{
+    color: blue;
+    text-align: justify;
+}

@@ -1,0 +1,41 @@
+.row{
+    background-color: black;
+ height: 500px;
+ display: flex;
+ /* flex-direction: row-reverse; */
+ /* flex-direction: column; */
+ /* flex-direction: column-reverse; */
+
+ /* justify-content: flex-start; */
+ /* justify-content: flex-end; */
+ /* justify-content: center; */
+ /* justify-content: space-between; */
+ justify-content: space-evenly;
+ /* justify-content: space-around; */
+
+ /* align-items: flex-start; */
+ /* align-items: flex-end; */
+ /* align-items: baseline; */
+ align-items: center;
+
+ /* flex-wrap: nowrap; */
+/* flex-wrap: wrap ; */
+flex-wrap: wrap-reverse;
+}
+width: 100px;
+    border:.c{
+    height: 100px;
+     2px black solid;
+}
+.c-1{
+    background-color: aqua;
+}
+.c-2{
+    background-color: blue;
+}
+.c-3{
+    background-color: brown;
+}
+.c-4{
+    background-color: chartreuse;
+}

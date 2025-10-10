@@ -1,0 +1,41 @@
+/* h3:hover{
+    color: aqua;
+} */
+ /* h3:active{
+    color: aqua;
+ } */
+/* input:focus{
+    border: 10px red solid;
+    background-color: aqua;
+    color: white;
+    outline: 0px;
+} */
+/* a:link{
+    color: green;
+}
+a:visited{
+    color: red;
+} */
+
+
+/* h1::before{
+    content: "hello ";
+    color: aqua;
+} */
+
+/* h1::after{
+    content: "hello";
+    color: aqua;
+} */
+
+h1::first-letter{
+    color: yellowgreen;
+}
+/* p::first-line{
+    color: aqua;
+} */
+
+p::selection{
+    color: aquamarine;
+    background-color: black;
+}

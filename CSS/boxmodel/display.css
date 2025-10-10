@@ -1,0 +1,19 @@
+.a1{
+    background-color: rgb(128, 144, 169);
+    display: block;
+    margin: 2px;
+}
+.a2{
+    background-color: aqua;
+    margin: 2px;
+    display: inline;
+     height: 100px ;
+    width: 100px;
+}
+.a3{
+    background-color: blue;
+    margin: 2px;
+    display: inline-block;
+    height: 100px ;
+    width: 100px;
+}

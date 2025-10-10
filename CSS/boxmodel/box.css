@@ -1,0 +1,16 @@
+div{
+    background-color: rgb(36, 46, 55);
+    color: white;
+    height: 100px;
+    width: 400px;
+    margin-left: 600px;
+    margin-top: 300px;
+    /* margine right,bottum,margine */
+    /* padding-left: 100px;
+    padding-top: 50px; */
+    padding: 30px;
+    border: 10px red solid;
+    border-radius: 200px;
+}
+
+  

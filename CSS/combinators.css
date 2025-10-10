@@ -1,0 +1,15 @@
+/* .k p{
+    color: rgb(13, 91, 91);
+} */
+
+/* .k>p{
+    color: aqua;
+} */
+
+/* h2+p{
+    color: blue;
+} */
+
+h2~p{
+    color: brown;
+}
